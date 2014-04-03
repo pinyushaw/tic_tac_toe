@@ -20,7 +20,7 @@ Play the game using the arrow keys and Enter.
 ### Installation
 
 ```
-wget https://raw.githubusercontent.com/pinyushaw/tic_tac_toe/master/tie_tac_toe.c
+wget https://raw.githubusercontent.com/pinyushaw/tic_tac_toe/master/tic_tac_toe.c
 gcc -o tic_tac_toe tic_tac_toe.c
 ./tic_tac_toe
 ```
@@ -29,3 +29,7 @@ gcc -o tic_tac_toe tic_tac_toe.c
 
 Contributions are very welcome.
 
+
+### License
+
+[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
