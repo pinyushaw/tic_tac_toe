@@ -1,9 +1,12 @@
 tic_tac_toe.c
 ======
 
-![screenshot](http://www.leaseweblabs.com/wp-content/uploads/2014/03/20481.png)
+![screenshot](ss1.png)
+![screenshot](ss2.png)
 
 Console version of the game "tic-tac-toe" for OS X.
+
+You can never win!
 
 ### Gameplay
 
@@ -18,15 +21,11 @@ Play the game using the arrow keys and Enter.
 
 ```
 wget https://raw.githubusercontent.com/pinyushaw/tic_tac_toe/master/tie_tac_toe.c
-gcc -o 2048 2048.c
-./2048
+gcc -o tic_tac_toe tic_tac_toe.c
+./tic_tac_toe
 ```
 
 ### Contributing
 
-Contributions are very welcome. Always run the tests before committing using:
+Contributions are very welcome.
 
-```
-$ ./2048 test
-All 13 tests executed successfully
-```
