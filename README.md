@@ -4,9 +4,7 @@ tic_tac_toe.c
 ![screenshot](ss1.png)
 ![screenshot](ss2.png)
 
-Console version of the game "tic-tac-toe" for OS X.
-
-You can never win!
+Console version of the game "tic-tac-toe"(AI) for OS X.
 
 ### Gameplay
 
