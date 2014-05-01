@@ -30,4 +30,4 @@ Contributions are very welcome.
 
 ### License
 
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[MIT](http://opensource.org/licenses/MIT/)
